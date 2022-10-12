@@ -127,8 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="coinChange.cpp" />
+    <ClCompile Include="fractionalKnapsack.cpp" />
     <ClCompile Include="huffmanCode.cpp" />
+    <ClCompile Include="JobScheduling.cpp" />
+    <ClCompile Include="kruskalMST.cpp" />
     <ClCompile Include="maxHeap.cpp" />
+    <ClCompile Include="primMST.cpp" />
+    <ClCompile Include="setCover.cpp" />
+    <ClCompile Include="shortestPath.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
