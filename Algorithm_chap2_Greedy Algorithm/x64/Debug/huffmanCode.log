@@ -1,3 +1,2 @@
-﻿  test.cpp
-C:\Users\황순찬\source\repos\Algorithm\Algorithm_chap2_Greedy Algorithm\test.cpp(75): warning C4172: 지역 변수 또는 임시: pop의 주소를 반환하고 있습니다.
+﻿  primMST.cpp
   huffmanCode.vcxproj -> C:\Users\황순찬\source\repos\Algorithm\Algorithm_chap2_Greedy Algorithm\x64\Debug\huffmanCode.exe
