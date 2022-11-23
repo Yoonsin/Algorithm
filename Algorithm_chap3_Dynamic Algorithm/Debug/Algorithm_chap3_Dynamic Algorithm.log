@@ -1,2 +1,3 @@
-﻿  DPCoinChange.cpp
+﻿  kanpsack_2.cpp
+C:\Users\황순찬\source\repos\Algorithm\Algorithm_chap3_Dynamic Algorithm\kanpsack_2.cpp(44,12): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Algorithm_chap3_Dynamic Algorithm.vcxproj -> C:\Users\황순찬\source\repos\Algorithm\Algorithm_chap3_Dynamic Algorithm\Debug\Algorithm_chap3_Dynamic Algorithm.exe
