@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TSP.cpp">
+    <ClCompile Include="TSP_Backtracking.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="TSP_Branch-and-Bound.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
